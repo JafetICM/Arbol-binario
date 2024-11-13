@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net6.0-windows\Arbol-binario.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net6.0-windows\Arbol-binario.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net6.0-windows\Arbol-binario.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net6.0-windows\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net6.0-windows\Arbol-binario.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\refint\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\Arbol-binario.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net6.0-windows\ref\Arbol-binario.dll

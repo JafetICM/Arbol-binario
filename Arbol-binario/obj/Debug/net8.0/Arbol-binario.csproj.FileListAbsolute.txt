@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net8.0\Arbol-binario.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net8.0\Arbol-binario.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net8.0\Arbol-binario.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net8.0\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\bin\Debug\net8.0\Arbol-binario.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\refint\Arbol-binario.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\Arbol-binario.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Arbol-binario\obj\Debug\net8.0\ref\Arbol-binario.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/f8+00WihJsNsde8TlMvVUgU2aKVHMDlxy72XM7ik6k3a8EEKxltNV1suv/p4FoBtpI6Z2Do6sdUaQVz7Ul8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Elitebook\\OneDrive - Universidad Tecnológica Metropolitana\\Escritorio\\Arbol-binario\\Arbol-binario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
